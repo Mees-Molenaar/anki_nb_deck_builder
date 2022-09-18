@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "anki_nb_deck_builder"
+  site-url: "https://Mees-Molenaar.github.io/anki_nb_deck_builder"
+  description: "Making Anki Decks using Notebooks"
+  repo-branch: main
+  repo-url: "https://github.com/Mees-Molenaar/anki_nb_deck_builder"
